@@ -117,7 +117,8 @@ section {
 
 .navigasi a,
 .shop {
-   color: #fff;
+   color:#ffc107;
+   font-weight: bold;
    padding-left: 8px;
    padding-right: 8px;
 }
@@ -128,7 +129,7 @@ section {
 
 .chat {
    margin-right: 30px;
-   background-color: rgb(8, 69, 8);
+   background-color: #ffc107;
    color: #fff;
    padding-top: 5px;
    padding-right: 15px;
