@@ -20,6 +20,7 @@ html {
 body {
    /* mendaftarkan semua teks pada body menjadi family Poppins */
    font-family: 'Poppins';
+   background-color: rgb(247, 243, 237);
 }
 
 a {
